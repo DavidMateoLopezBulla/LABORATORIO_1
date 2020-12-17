@@ -1,4 +1,4 @@
-# LABORATORIO-
+# LABORATORIO 1
 Laboratorio1_FDC_4877
 
 **Informe Laboratorio 1**
