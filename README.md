@@ -8,7 +8,7 @@ Laboratorio1_FDC_4877
 
 ------------
 
-**Objetivos** 
+###Objetivos
 
 Objetivos generales   
 - Identificar las relaciones entre coorriente , resisitencia y voltaje en circuitos en serie y paralelo.
@@ -20,7 +20,7 @@ Objetivos específicos
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
 
-*Diagrama*  
+###Diagramas
 
 
 
