@@ -39,16 +39,16 @@ Objetivos específicos
 
 | **Variable**  | **Valor Calculado**  | **Valor Medido**  |
 | ------------ | ------------ | ------------ |
-| VR1 (V) |   |   |
-| IR1 (mA)  |   |   |
-| VR2 (V) |   |   |
-| IR2 (mA) |   |   |
-| VR3 (V) |   |   |
-| IR3 (mA) |   |   |
-| VR4 (V) |   |   |
-| IR4 (mA) |   |   |
-| VR5 (V) |   |   |
-| IR5 (mA) |   | H  |
+| VR1 (V) |  2V |   |
+| IR1 (mA)  |0.002 |   |
+| VR2 (V) |4.4  V  |   |
+| IR2 (mA) |  0.001 |   |
+| VR3 (V) | 2.2  |   |
+| IR3 (mA) | 0.001  |   |
+| VR4 (V) | 2.2 V  |   |
+| IR4 (mA) | 0.001  |   |
+| VR5 (V) | 3.6 V  |   |
+| IR5 (mA) | 0.002  | H  |
 
 
 > Tabla 1. 2.  Verificación de la LVK 
@@ -57,7 +57,7 @@ Objetivos específicos
 | **VOLTAJE**  | Trayectoria 1 |  | Trayectoria 2  | | Trayectoria 3 | |
 | ------------ | ------------ | ------------ |------------ | ------------ |------------ | ------------ |
 |              |Calculado | Medido | Calculado  | Medido | Calculado  | Medido  |
-| VT (V)   |                  |              |                   |               |                   |               |
+| VT (V)   |        10 V          |              |                   |               |                   |               |
 | VR1 (V) |                  |              |                   |               |                   |               |
 | VR2 (V) |                  |              |                   |               |                   |               |
 | VR3 (V) |                  |              |                   |               |                   |               |
@@ -70,7 +70,7 @@ Objetivos específicos
 |  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | | | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |                  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  |
-| IT (mA)     |   |   |   |   |   |   |   |   |   |   |
+| IT (mA)     | 0.002  |   |   |   |   |   |   |   |   |   |
 | IR1 (mA)   |   |   |   |   |   |   |   |   |   |   |
 | IR2 (mA)   |   |   |   |   |   |   |   |   |   |   |
 | IR3 (mA)   |   |   |   |   |   |   |   |   |   |   |
