@@ -20,6 +20,7 @@ Objetivos específicos
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
 
+### 4.  LISTA DE COMPONENTES
 
 | **Cantidad**  |  **Material o Equipo** |
 | ------------ | ------------ |
@@ -32,7 +33,8 @@ Objetivos específicos
 |  1 | Protoboard  |
 
 
-Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
+
+>Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
 
 
 | **Variable**  | **Valor Calculado**  | **Valor Medido**  |
@@ -49,7 +51,7 @@ Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del ci
 | IR5 (mA) |   | H  |
 
 
-Tabla 1. 2.  Verificación de la LVK 
+> Tabla 1. 2.  Verificación de la LVK 
 
 
 | **VOLTAJE**  | Trayectoria 1 |  | Trayectoria 2  | | Trayectoria 3 | |
@@ -63,7 +65,7 @@ Tabla 1. 2.  Verificación de la LVK
 | VR5 (V) |                  |              |                   |               |                   |               |
 |  ΣV        |                  |              |                   |               |                   |           f   |
 
-Tabla 1. 3.  Verificación de la LCK
+> Tabla 1. 3.  Verificación de la LCK
 
 |  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | | | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
