@@ -31,6 +31,7 @@ Objetivos específicos
 |  1 | Resistor de 3.9 k Ω  |
 |  1 | Protoboard  |
 
+
 Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
 
 
@@ -47,7 +48,11 @@ Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del ci
 | VR5 (V) |   |   |
 | IR5 (mA) |   | H  |
 
-| **VOLTAJE**  | Trayectoria 1 | Trayectoria 2  | Trayectoria 3  | | | |
+
+Tabla 1. 2.  Verificación de la LVK 
+
+
+| **VOLTAJE**  | Trayectoria 1 |  | Trayectoria 2  | | Trayectoria 3 | |
 | ------------ | ------------ | ------------ |------------ | ------------ |------------ | ------------ |
 |              |Calculado | Medido | Calculado  | Medido | Calculado  | Medido  |
 | VT (V)   |                  |              |                   |               |                   |               |
@@ -57,6 +62,7 @@ Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del ci
 | VR4 (V) |                  |              |                   |               |                   |               | 
 | VR5 (V) |                  |              |                   |               |                   |               |
 |  ΣV        |                  |              |                   |               |                   |           f   |
+
 
 
 |  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | | | 
