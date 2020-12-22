@@ -31,6 +31,9 @@ Objetivos específicos
 |  1 | Resistor de 3.9 k Ω  |
 |  1 | Protoboard  |
 
+Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
+
+
 | **Variable**  | **Valor Calculado**  | **Valor Medido**  |
 | ------------ | ------------ | ------------ |
 | VR1 (V) |   |   |
