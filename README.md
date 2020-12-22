@@ -20,27 +20,12 @@ Objetivos específicos
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
 
-### Diagramas
-![DIAGRAMA](https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)
-
 ### Marco Teórico
 
 ![1608564921 Infographic Template_page-0001](https://user-images.githubusercontent.com/76136485/102854377-66bff400-43f0-11eb-981c-1d354147f6ba.jpg)
 
-
-### Lista de componentes  
-------------
-| **Cantidad**  |  **Material o Equipo** |
-| ------------ | ------------ |
-| 1  | Fuente de Voltaje de C.D  |
-|  2 | Multímetros Digitales  |
-|  1 | Resistor de 1 k Ω  |
-|  2 | Resistor de 2.2 k Ω  |
-|  1 | Resistor de 1.8 k Ω  |
-|  1 | Resistor de 3.9 k Ω  |
-|  1 | Protoboard  |
-------------
-
+### Diagramas
+![DIAGRAMA](https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)
 
 >Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
 
@@ -85,4 +70,21 @@ Objetivos específicos
 | IR4 (mA)   |   |   |   |   |   |   |   |   |   |   |
 | IR5 (mA)   |   |   |   |   |   |   |   |   |   |   |
 | ΣI         |   |   |   |   |   |   |   |   |   | f  |
+
+
+### Lista de componentes  
+------------
+| **Cantidad**  |  **Material o Equipo** |
+| ------------ | ------------ |
+| 1  | Fuente de Voltaje de C.D  |
+|  2 | Multímetros Digitales  |
+|  1 | Resistor de 1 k Ω  |
+|  2 | Resistor de 2.2 k Ω  |
+|  1 | Resistor de 1.8 k Ω  |
+|  1 | Resistor de 3.9 k Ω  |
+|  1 | Protoboard  |
+------------
+
+
+
 
