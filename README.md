@@ -19,3 +19,51 @@ Objetivos específicos
 - Demostrar las leyes de Krichhoff de voltajes y corrientes mediante calculos y una simulación.
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
+
+
+| **Cantidad**  |  **Material o Equipo** |
+| ------------ | ------------ |
+| 1  | Fuente de Voltaje de C.D  |
+|  2 | Multímetros Digitales  |
+|  1 | Resistor de 1 k Ω  |
+|  2 | Resistor de 2.2 k Ω  |
+|  1 | Resistor de 1.8 k Ω  |
+|  1 | Resistor de 3.9 k Ω  |
+|  1 | Protoboard  |
+
+| **Variable**  | **Valor Calculado**  | **Valor Medido**  |
+| ------------ | ------------ | ------------ |
+| VR1 (V) |   |   |
+| IR1 (mA)  |   |   |
+| VR2 (V) |   |   |
+| IR2 (mA) |   |   |
+| VR3 (V) |   |   |
+| IR3 (mA) |   |   |
+| VR4 (V) |   |   |
+| IR4 (mA) |   |   |
+| VR5 (V) |   |   |
+| IR5 (mA) |   | H  |
+
+| **VOLTAJE**  | Trayectoria 1 | Trayectoria 2  | Trayectoria 3  | | | |
+| ------------ | ------------ | ------------ |------------ | ------------ |------------ | ------------ |
+|              |Calculado | Medido | Calculado  | Medido | Calculado  | Medido  |
+| VT (V)   |                  |              |                   |               |                   |               |
+| VR1 (V) |                  |              |                   |               |                   |               |
+| VR2 (V) |                  |              |                   |               |                   |               |
+| VR3 (V) |                  |              |                   |               |                   |               |
+| VR4 (V) |                  |              |                   |               |                   |               | 
+| VR5 (V) |                  |              |                   |               |                   |               |
+|  ΣV        |                  |              |                   |               |                   |           f   |
+
+
+|  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | | | 
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|                  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  |
+| IT (mA)     |   |   |   |   |   |   |   |   |   |   |
+| IR1 (mA)   |   |   |   |   |   |   |   |   |   |   |
+| IR2 (mA)   |   |   |   |   |   |   |   |   |   |   |
+| IR3 (mA)   |   |   |   |   |   |   |   |   |   |   |
+| IR4 (mA)   |   |   |   |   |   |   |   |   |   |   |
+| IR5 (mA)   |   |   |   |   |   |   |   |   |   |   |
+| ΣI              |   |   |   |   |   |   |   |   |   | f  |
+
