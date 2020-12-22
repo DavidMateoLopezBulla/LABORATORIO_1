@@ -11,7 +11,7 @@ Laboratorio1_FDC_4877
 **Objetivos**
 
 Objetivos generales   
-- Identificar las relaciones entre coorriente , resisitencia y voltaje.
+- Identificar las relaciones entre coorriente , resisitencia y voltaje en circuitos en serie y paralelo.
 - Reconocer y aplicar las leyes de krichhoff.
 - Utilizar un simulador para armar un circuito y comprobar las leyes de Krichhoff  
 
