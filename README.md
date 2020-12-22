@@ -21,7 +21,7 @@ Objetivos específicos
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
 
 ### 4.  LISTA DE COMPONENTES
-
+------------
 | **Cantidad**  |  **Material o Equipo** |
 | ------------ | ------------ |
 | 1  | Fuente de Voltaje de C.D  |
@@ -31,7 +31,7 @@ Objetivos específicos
 |  1 | Resistor de 1.8 k Ω  |
 |  1 | Resistor de 3.9 k Ω  |
 |  1 | Protoboard  |
-
+------------
 
 
 >Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito 
