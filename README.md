@@ -25,6 +25,8 @@ Objetivos específicos
 
 ### Marco Teórico
 
+![1608564921 Infographic Template_page-0001](https://user-images.githubusercontent.com/76136485/102854377-66bff400-43f0-11eb-981c-1d354147f6ba.jpg)
+
 
 ### Lista de componentes  
 ------------
