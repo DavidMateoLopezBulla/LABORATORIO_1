@@ -20,9 +20,8 @@ Objetivos específicos
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
 
-###Diagramas
-
-
+### Diagramas
+![DIAGRAMA](https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)
 
 ### 4.  LISTA DE COMPONENTES
 ------------
