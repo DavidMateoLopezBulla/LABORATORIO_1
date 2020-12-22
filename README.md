@@ -43,9 +43,9 @@ Objetivos específicos
 | IR1 (mA)  | |   |
 | VR2 (V) | 10 V  | 10 V |
 | IR2 (mA) | |   |
-| VR3 (V) | 5 V | 10 V |
+| VR3 (V) | 5 V | 5 V |
 | IR3 (mA) | |   |
-| VR4 (V) | 5 V  | 10 V  |
+| VR4 (V) | 5 V  | 5 V  |
 | IR4 (mA) | |   |
 | VR5 (V) | 10 V  | 10 V |
 | IR5 (mA) |   |   |
