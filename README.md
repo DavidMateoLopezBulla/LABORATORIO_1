@@ -23,6 +23,9 @@ Objetivos específicos
 ### Diagramas
 ![DIAGRAMA](https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)
 
+### Marco Teórico
+
+
 ### Lista de componentes  
 ------------
 | **Cantidad**  |  **Material o Equipo** |
