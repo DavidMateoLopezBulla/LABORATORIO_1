@@ -8,7 +8,7 @@ Laboratorio1_FDC_4877
 
 ------------
 
-**Objetivos**
+**Objetivos** 
 
 Objetivos generales   
 - Identificar las relaciones entre coorriente , resisitencia y voltaje en circuitos en serie y paralelo.
@@ -19,6 +19,10 @@ Objetivos específicos
 - Demostrar las leyes de Krichhoff de voltajes y corrientes mediante calculos y una simulación.
 - Aprender la utilidad e implementación de componentes eléctricos.
 - Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.
+
+*Diagrama*  
+
+
 
 ### 4.  LISTA DE COMPONENTES
 ------------
